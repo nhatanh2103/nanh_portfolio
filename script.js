@@ -8,7 +8,7 @@ let home=document.getElementById("home_btn")
 let about=document.getElementById("about_btn")
 let exp=document.getElementById("exp_btn")
 let contact=document.getElementById("contact_btn")
-// $("#home").addClass("text_hide")
+
 $("#about").addClass("text_hide")
 $("#exp").addClass("text_hide")
 $("#contact").addClass("text_hide")
